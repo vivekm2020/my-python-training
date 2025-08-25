@@ -1,5 +1,4 @@
 import pyttsx3
-pyttsx3.speak("opening google")
-
 import os
+pyttsx3.speak("opening google")
 os.system("google-chrome")
